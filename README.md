@@ -1,4 +1,4 @@
-# EDAforHealthcare
+# Health Diagnostic Analytics
 Findings
 
 Age group
